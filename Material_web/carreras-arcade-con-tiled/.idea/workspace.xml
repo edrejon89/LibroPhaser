@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af819628-4eb4-42c0-b035-a00f96c75431" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-detectar-vueltas/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-evitar-trampas/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="227" column="3" lean-forward="true" selection-start-line="227" selection-start-column="3" selection-end-line="227" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1-carga-background-este-paso-cambia-con-tiled/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="22" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-evitar-trampas/javascript-old.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3-carga-coches-con-funcion/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4-mover-coches-hacia-delante-paso-cambia-con-tiled/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="8" selection-start-line="42" selection-start-column="6" selection-end-line="45" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5-rotar-este-paso-cambia-con-tiled/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6-controles-visuales/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-fisicas-este-paso-cambia-con-tiled/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-marcadores/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>markers</find>
+      <find>createpla</find>
+      <find>creapla</find>
+      <find>player.setdata</find>
+      <find>hitmarker</find>
+      <find>setData</find>
+      <find>etData('mar</find>
+      <find>hitmar</find>
+      <find>hitmarke</find>
+      <find>metaout</find>
+      <find>meta</find>
+      <find>creaplayer</find>
+      <find>.numero</find>
+      <find>entraArea2</find>
+      <find>.overlap</find>
+      <find>pasado</find>
+      <find>update</find>
+      <find>pintarMarcador</find>
+      <find>playersGroup</find>
+      <find>coches</find>
+      <find>pintarMetas</find>
+      <find>createMar</find>
+      <find>createMArkers</find>
+      <find>this.back</find>
+      <find>backgroundLayer</find>
+      <find>backgroundLaye</find>
+      <find>creaPlayers</find>
+      <find>passed</find>
+      <find>creaplayers</find>
+      <find>entra</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/9-detectar-vueltas-rich/javascript.js" />
+        <option value="$PROJECT_DIR$/1-carga-background-este-paso-cambia-con-tiled/javascript.js" />
+        <option value="$PROJECT_DIR$/2-sprite-animado/javascript.js" />
+        <option value="$PROJECT_DIR$/3-carga-coches-con-funcion/javascript.js" />
+        <option value="$PROJECT_DIR$/4-mover-coches-hacia-delante-paso-cambia-con-tiled/javascript.js" />
+        <option value="$PROJECT_DIR$/5-rotar-este-paso-cambia-con-tiled/javascript.js" />
+        <option value="$PROJECT_DIR$/6-controles-visuales/javascript.js" />
+        <option value="$PROJECT_DIR$/9-detectar-vueltas/javascript.js" />
+        <option value="$PROJECT_DIR$/8-marcadores/javascript.js" />
+        <option value="$PROJECT_DIR$/7-fisicas-este-paso-cambia-con-tiled/javascript.js" />
+        <option value="$PROJECT_DIR$/10-evitar-trampas/javascript.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="372" />
+    <option name="width" value="1280" />
+    <option name="height" value="348" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="1-carga-background-este-paso-cambia-con-tiled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="2-sprite-animado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="3-carga-coches-con-funcion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="4-mover-coches-hacia-delante-paso-cambia-con-tiled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="5-rotar-este-paso-cambia-con-tiled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="6-controles-visuales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="7-fisicas-este-paso-cambia-con-tiled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="8-marcadores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="9-detectar-vueltas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="con-arcade-con-tiled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="con-arcade-con-tiled" type="462c0819:PsiDirectoryNode" />
+              <item name="10-evitar-trampas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10-evitar-trampas" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af819628-4eb4-42c0-b035-a00f96c75431" name="Default Changelist" comment="" />
+      <created>1552496809876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552496809876</updated>
+      <workItem from="1552496811225" duration="4689000" />
+      <workItem from="1552549384219" duration="746000" />
+      <workItem from="1552551776588" duration="12953000" />
+      <workItem from="1552572361462" duration="3344000" />
+      <workItem from="1552672013771" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21893000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1362" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3066971" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/9-detectar-vueltas-rich/javascript.js" />
+    <entry file="file://$PROJECT_DIR$/9-detectar-vueltas/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-sprite-animado/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-detectar-vueltas/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-carga-background-este-paso-cambia-con-tiled/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="22" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-evitar-trampas/javascript-old.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3-carga-coches-con-funcion/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4-mover-coches-hacia-delante-paso-cambia-con-tiled/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="8" selection-start-line="42" selection-start-column="6" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-rotar-este-paso-cambia-con-tiled/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-controles-visuales/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-fisicas-este-paso-cambia-con-tiled/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-marcadores/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-evitar-trampas/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="227" column="3" lean-forward="true" selection-start-line="227" selection-start-column="3" selection-end-line="227" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

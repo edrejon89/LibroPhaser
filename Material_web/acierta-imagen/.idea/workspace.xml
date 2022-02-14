@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b0d246f-a345-48e6-b07f-32dc313263a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../assets/js/phaser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bitcoins/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bitcoins/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-carga-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/1-carga-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-perder-escena/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/10-perder-escena/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-carga-imagenes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-carga-imagenes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-cara-pulsada/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3-cara-pulsada/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-imagen-solucion-random/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-imagen-solucion-random/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-imagen-solucion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/4-imagen-solucion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-evalua-solucion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/5-evalua-solucion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6-caras-aleatorias/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/6-caras-aleatorias/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-refrescar-imagenes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/7-refrescar-imagenes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-marcador/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/8-marcador/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-temporizador/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/9-temporizador/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/1-carga-background-este-paso-cambia-con-tiled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/1-carga-background-este-paso-cambia-con-tiled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/10-evitar-trampas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/10-evitar-trampas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/2-sprite-animado/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/2-sprite-animado/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/3-carga-coches-con-funcion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/3-carga-coches-con-funcion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/4-mover-coches-hacia-delante-paso-cambia-con-tiled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/4-mover-coches-hacia-delante-paso-cambia-con-tiled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/5-rotar-este-paso-cambia-con-tiled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/5-rotar-este-paso-cambia-con-tiled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/6-controles-visuales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/6-controles-visuales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/7-fisicas-este-paso-cambia-con-tiled/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/7-fisicas-este-paso-cambia-con-tiled/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/8-marcadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/8-marcadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/9-detectar-vueltas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-arcade-con-tiled/9-detectar-vueltas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/1-carga-background/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/1-carga-background/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/10-pintar-area-para-detectar-vueltas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/10-pintar-area-para-detectar-vueltas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/11-detectar-vueltas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/11-detectar-vueltas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/12-poner-contadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/12-poner-contadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/13-aumentar-contadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/13-aumentar-contadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/14-evitar-trampas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/14-evitar-trampas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/15-alguien-gana-el-juego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/15-alguien-gana-el-juego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/16-con-portada/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/16-con-portada/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/17-cargar-musica/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/17-cargar-musica/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/18-escena-final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/18-escena-final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/18-escena-final/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/18-escena-final/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/19-cambio-controles-con-triangulo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/19-cambio-controles-con-triangulo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/19-cambio-controles-con-triangulo/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/19-cambio-controles-con-triangulo/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/2-carga-sprite-animado/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/2-carga-sprite-animado/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/3-carga-coches-con-funcion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/3-carga-coches-con-funcion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/4-mover-coche-hacia-delante-necesitamos-fisicas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/4-mover-coche-hacia-delante-necesitamos-fisicas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/5-rotar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/5-rotar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/6-controles-visuales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/6-controles-visuales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/7-controles-girados/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/7-controles-girados/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/8-cargar-sprites-con-PhysicsEditor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/8-cargar-sprites-con-PhysicsEditor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/8-variacion-con-TexturePacker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/8-variacion-con-TexturePacker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/9-la-luna-rebota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../carreras/con-matter-sin-tiled/9-la-luna-rebota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elije-tu-propia-aventura/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elije-tu-propia-aventura/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elije-tu-propia-aventura/2-opcion-pulsada/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elije-tu-propia-aventura/2-opcion-pulsada/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elije-tu-propia-aventura/3-evalua-opcion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elije-tu-propia-aventura/3-evalua-opcion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elije-tu-propia-aventura/4-cambio-escena/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elije-tu-propia-aventura/4-cambio-escena/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elije-tu-propia-aventura/5-escena-nave/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elije-tu-propia-aventura/5-escena-nave/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/10-poner-vidas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/10-poner-vidas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/11-gestionar-vidas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/11-gestionar-vidas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/2-fisicas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/2-fisicas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/3-varios-misiles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/3-varios-misiles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/4-click/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/4-click/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/5-random-sprites/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/5-random-sprites/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/6-diferentes-posiciones/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/6-diferentes-posiciones/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/7-perder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/7-perder/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/8-cohetes-explotan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/8-cohetes-explotan/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fall-down-game/9-escena-fin-juego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fall-down-game/9-escena-fin-juego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/10-poner-tapas-a-tuberia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/10-poner-tapas-a-tuberia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/11-tuberias-aleatorias/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/11-tuberias-aleatorias/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/12-escena-fin-de-juego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/12-escena-fin-de-juego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/13-volver-a-jugar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/13-volver-a-jugar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/14-fondo-animado/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/14-fondo-animado/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/15-detectar-cuando-el-player-sale-de-la-pantalla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/15-detectar-cuando-el-player-sale-de-la-pantalla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/2-volando/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/2-volando/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/3-saltar-con-space/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/3-saltar-con-space/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/4-saltar-con-click-en-pantalla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/4-saltar-con-click-en-pantalla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/5-animacion-al-saltar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/5-animacion-al-saltar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/6-seguir-volando/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/6-seguir-volando/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/7-con-tuberias/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/7-con-tuberias/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/8-con-tuberias-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/8-con-tuberias-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flappy-bird/9-colision-con-tuberias/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../flappy-bird/9-colision-con-tuberias/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/10-detectar-pulsacion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/10-detectar-pulsacion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/11-explosion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/11-explosion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/2-carga-sprites/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/2-carga-sprites/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/3-carga-anims/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/3-carga-anims/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/4-encapsular-creacion-sprite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/4-encapsular-creacion-sprite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/5-asignar-desplazamiento/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/5-asignar-desplazamiento/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/6-varios-sprites/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/6-varios-sprites/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/7-carga-en-posiciones-aleatorias/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/7-carga-en-posiciones-aleatorias/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/8-mirando-en-direccion-correcta/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/8-mirando-en-direccion-correcta/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galeria-tiro/9-bichos-aleatorios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../galeria-tiro/9-bichos-aleatorios/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pasos-comunes/0-estructura-html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pasos-comunes/0-estructura-html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pasos-comunes/1-estructura-js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pasos-comunes/1-estructura-js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pasos-comunes/2-resize/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pasos-comunes/2-resize/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/10-con-animacion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/10-con-animacion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/11-salto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/11-salto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/12-caer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/12-caer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/13-controles-visuales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/13-controles-visuales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/14-camara-sigue-a-prota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/14-camara-sigue-a-prota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/15-camara-sigue-a-prota-horizontalmente/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/15-camara-sigue-a-prota-horizontalmente/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/16-fondo-se-repite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/16-fondo-se-repite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/17-enemigo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/17-enemigo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/18-enemigo-con-clase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/18-enemigo-con-clase/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/19-enemigo-con-animacion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/19-enemigo-con-animacion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/20-enemigo-se-mueve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/20-enemigo-se-mueve/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/21-enemigo-inteligente/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/21-enemigo-inteligente/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/22-enemigo-muere/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/22-enemigo-muere/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/23-enemigo-explota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/23-enemigo-explota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/24-prota-explota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/24-prota-explota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/25-metodo-insertar-enemigos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/25-metodo-insertar-enemigos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/26-enemigo-con-herencia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/26-enemigo-con-herencia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/27-insertar-oruga/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/27-insertar-oruga/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/28-insertar-avispa-dando-vueltas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/28-insertar-avispa-dando-vueltas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/29-avispa-con-estado-volando/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/29-avispa-con-estado-volando/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/3-prota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/3-prota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/30-avispa-detecta-player/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/30-avispa-detecta-player/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/31-avispa-persigue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/31-avispa-persigue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/32-avispa-ataca/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/32-avispa-ataca/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/33-avispa-vuelve-a-casa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/33-avispa-vuelve-a-casa/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/34-continua-volando/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/34-continua-volando/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/35-avispa-siempre-mira-al-prota/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/35-avispa-siempre-mira-al-prota/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/36-prota-recibe-dano-con-alert/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/36-prota-recibe-dano-con-alert/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/37-prota-recibe-dano-con-desplazamiento/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/37-prota-recibe-dano-con-desplazamiento/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/38-prota-recibe-dano-restaurar-controles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/38-prota-recibe-dano-restaurar-controles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/39-meta/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/39-meta/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/4-prota-con-clases/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/4-prota-con-clases/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/40-fin-del-juego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/40-fin-del-juego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/41-limitando-la-camara/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/41-limitando-la-camara/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/42-escena-de-perder-tras-explotar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/42-escena-de-perder-tras-explotar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/43-escena-de-perder-tras-caer-por-precipicio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/43-escena-de-perder-tras-caer-por-precipicio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/5-backgroundLayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/5-backgroundLayer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/6-colisionLayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/6-colisionLayer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/7-hierbaLayer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/7-hierbaLayer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/8-ajustando-bounding-box/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/8-ajustando-bounding-box/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plataformas/9-prota-se-mueve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../plataformas/9-prota-se-mueve/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/1-fondo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/1-fondo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/10-mover-player-controles-visuales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/10-mover-player-controles-visuales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/11-colision-player/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/11-colision-player/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/12-ladrillo-estatico/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/12-ladrillo-estatico/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/13-dos-jugadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/13-dos-jugadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/14-perder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/14-perder/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/14-problema-controles-tactiles-varios-jugadores/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/14-problema-controles-tactiles-varios-jugadores/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/15-invalidar-alert/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/15-invalidar-alert/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/16-volver-a-jugar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/16-volver-a-jugar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/17-poner-marcador/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/17-poner-marcador/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/18-aumentar-marcador/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/18-aumentar-marcador/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/19-ajustar-areas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/19-ajustar-areas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/2-poner-pelota-en-pantalla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/2-poner-pelota-en-pantalla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/20-limitar-area-juego/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/20-limitar-area-juego/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/21-deteccion-de-varios-puntos-en-pantalla/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/21-deteccion-de-varios-puntos-en-pantalla/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/3-pelota-gira/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/3-pelota-gira/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/4-pelota-se-mueve/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/4-pelota-se-mueve/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/4-variacion-pelota-se-mueve-velocidad-variable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/4-variacion-pelota-se-mueve-velocidad-variable/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/5-pelota-se-mueve-con-angulo-razonable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/5-pelota-se-mueve-con-angulo-razonable/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/6-rebote-contra-paredes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/6-rebote-contra-paredes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/6-variacion-rebote-contra-paredes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/6-variacion-rebote-contra-paredes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/7-poner-player-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/7-poner-player-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/8-mover-player/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/8-mover-player/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pong/9-controles-visuales/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pong/9-controles-visuales/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/1-crear-grupo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/1-crear-grupo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/2-animar-grupo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/2-animar-grupo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/3-deplazar-grupo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/3-deplazar-grupo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/4-detectar-click-sobre-grupo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/4-detectar-click-sobre-grupo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/5-vuelta-a-empezar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../old-y-originales/descartados/galeria-tiro/5-vuelta-a-empezar/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-perder-escena/javascript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/10-perder-escena/javascript.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="372" />
+    <option name="width" value="1280" />
+    <option name="height" value="348" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="acierta-imagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acierta-imagen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="acierta-imagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="acierta-imagen" type="462c0819:PsiDirectoryNode" />
+              <item name="10-perder-escena" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b0d246f-a345-48e6-b07f-32dc313263a8" name="Default Changelist" comment="" />
+      <created>1553672441794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553672441794</updated>
+      <workItem from="1553672442971" duration="3115000" />
+      <workItem from="1553951819567" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3141000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1362" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25342464" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10-perder-escena/javascript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

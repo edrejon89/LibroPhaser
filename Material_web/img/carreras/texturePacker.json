@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "spritesProcesados.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 968,
+				"h": 967
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "muro_exterior_derecha.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 509,
+						"h": 644
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 509,
+						"h": 644
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 509,
+						"h": 644
+					}
+				},
+				{
+					"filename": "muro_exterior_izquierda.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 455,
+						"h": 644
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 455,
+						"h": 644
+					},
+					"frame": {
+						"x": 512,
+						"y": 1,
+						"w": 455,
+						"h": 644
+					}
+				},
+				{
+					"filename": "muro_interior.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 641,
+						"h": 327
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 641,
+						"h": 319
+					},
+					"frame": {
+						"x": 1,
+						"y": 647,
+						"w": 641,
+						"h": 319
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:aede4a19f7ebc47e420e78661abf9402:a6fae1489ae670ffdc1f23a5844a211b:2d59f7022e402bf981072fdc2b44b37e$"
+	}
+}
