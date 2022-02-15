@@ -12,6 +12,8 @@ class Escena extends Phaser.Scene {
     }
 
     create() {
+        // Numero aleatorio en js nativo
+        // const n_aleatorio = Math.floor(Math.random() * (MAX-MIN+1)) +MIN;
         this.add.sprite(480, 320, 'fondo');
         this.cara0 = this.add.sprite(225, 425, 'caraIMG0').setInteractive();
         this.cara1 = this.add.sprite(480, 460, 'caraIMG1').setInteractive();
@@ -27,10 +29,17 @@ class Escena extends Phaser.Scene {
         this.cara1.on('pointerdown', () => this.caraPulsada(this.cara1));
         this.cara2.on('pointerdown', () => this.caraPulsada(this.cara2));
 
+        const random = Math.floor(Math.random() *3);
+        this.spriteSolucion = this.add.sprite(480,190, 'caraIMG0');
     }
 
     caraPulsada(cara){
-        alert(cara.texture.key);
+        if (cara.texture.key === this.spriteSolucion.texture.key){
+            alert('Exito!!!');
+        } else {
+            alert('Fracaso, como en todo lo que haces!');
+        }
+
     }
     // update() {
     //     console.log('update');
@@ -71,6 +80,9 @@ function resize1() {
     canvas.style.width = windowWidth + 'px';
     canvas.style.height = `${windowHeight}px`;
 }
+
+
+
 
 
 new Phaser.Game(config);
