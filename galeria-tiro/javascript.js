@@ -29,6 +29,7 @@ class Escena extends Phaser.Scene{
         const p3 = this.add.sprite(500,200,'hormiga');
         const p4 = this.add.sprite(700,200,'avispa');
 
+        this.createSprite();
         this.animacionesDeLaEscena();
     }
 
@@ -51,6 +52,23 @@ class Escena extends Phaser.Scene{
             frameRate: 10,
             repeat: -1
         });
+    }
+
+    createSprite() {
+        const nombreSprite = 'oruga';
+        const obj = this.physics.add.sprite(1000, 100, nombreSprite);
+        if (nombreSprite == 'oruga') {
+            obj.play('orugaLeft');
+        } else if (nombreSprite == 'hormiga') {
+            obj.play('hormigaLeft');
+        } else {
+            obj.play('avispaLeft');
+        }
+        obj.setVelocity(-200, 0);
+
+        this.time.delayedCall(1000, () => {
+            this.this.createSprite('oruga');
+        }, [], this);
     }
 
 }
@@ -79,17 +97,11 @@ class EscenaPerder extends Phaser.Scene {
 
 const config = {
     type: Phaser.AUTO,
-    width: 640,
-    height: 960,
-    scene: [Escena,EscenaPerder],
+    width: 960,
+    height: 640,
+    scene: Escena,
     physics: {
         default:'arcade',
-        arcade: {
-            debug: true,
-            gravity: {
-                y: 300.
-            },
-        },
     },
 };
 
