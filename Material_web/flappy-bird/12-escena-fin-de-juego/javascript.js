@@ -5,7 +5,7 @@ class Escena extends Phaser.Scene {
         resize();
         window.addEventListener('resize', resize, false);
         this.load.image('fondo', '../img/espacio.jpg');
-        this.load.spritesheet('heroe', '../img/heroe.png', {
+        this.load.spritesheet('heroes', '../img/heroes.png', {
             frameWidth: 50,
             frameHeight: 50
         });
@@ -21,11 +21,11 @@ class Escena extends Phaser.Scene {
 
     create() {
         this.add.sprite(480, 320, 'fondo');
-        this.player = this.physics.add.sprite(50, 200, 'heroe');
+        this.player = this.physics.add.sprite(50, 200, 'heroes');
 
         this.anims.create({
             key: 'volar',
-            frames: this.anims.generateFrameNumbers('heroe', {
+            frames: this.anims.generateFrameNumbers('heroes', {
                 start: 0,
                 end: 2
             }),
@@ -34,7 +34,7 @@ class Escena extends Phaser.Scene {
         });
         this.anims.create({
             key: 'saltar',
-            frames: this.anims.generateFrameNumbers('heroe', {
+            frames: this.anims.generateFrameNumbers('heroes', {
                 start: 2,
                 end: 2
             }),

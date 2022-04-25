@@ -7,10 +7,12 @@ export class BootScene extends Phaser.Scene {
         super({
             key: 'BootScene'
         });
+        debugger;
     }
 
     preload(): void {
         // resize('resize', resize, false);
+        debugger;
         window.addEventListener('resize', this.resize, false);
         this.load.image('fondo', '../assets/img/fondo.jpg');
         this.load.image('misil0', '../assets/img/misil0.png');
