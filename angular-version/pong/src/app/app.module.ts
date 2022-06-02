@@ -1,16 +1,18 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import {PhaserCanvasModule} from "./phaser-canvas/phaser-canvas.module";
+import { GameComponent } from './game/game.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    GameComponent
   ],
   imports: [
     BrowserModule,
-    PhaserCanvasModule
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
